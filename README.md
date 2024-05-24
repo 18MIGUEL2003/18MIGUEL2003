@@ -97,7 +97,7 @@
 
 <li>
 <a href="https://www.linkedin.com/in/miguel-agudelo-172261221?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3B2NQ1L8sVQV%2Bdynxk3JeKbw%3D%3D" target="_blank">
-<img src="https://img.shields.io/badge/linkedin:  0xabdulkhalid-%2300acee.svg?color=405DE6&style=for-the-badge&logo=linkedin&logoColor=white" alt=linkedin style="margin-bottom: 5px;"/>
+<img src="https://img.shields.io/badge/linkedin:  Miguel Agudelo-%2300acee.svg?color=405DE6&style=for-the-badge&logo=linkedin&logoColor=white" alt=linkedin style="margin-bottom: 5px;"/>
 </a>
 </li>
 
@@ -105,7 +105,7 @@
 
 <li>
 <a href="mailto:agudelomiguel04@gmail.com" target="_blank">
-<img src="https://img.shields.io/badge/gmail:  0xabdulkhalid-%23EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white" t=mail style="margin-bottom: 5px;" />
+<img src="https://img.shields.io/badge/gmail:  Miguel Agudelo-%23EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white" t=mail style="margin-bottom: 5px;" />
 </a>
 </li>
 	
